@@ -113,5 +113,5 @@ This repository is a **Portfolio Representation**. To protect commercial intelle
 I have curated a selection of my work to showcase different architectural patterns and business solutions. Feel free to explore them:
 
 [![GlobalShop](https://img.shields.io/badge/Project-GlobalShop-blue?style=for-the-badge&logo=github)](https://github.com/mohit-hasan/globalshop-commerce-platform)
-[![Classroom](https://img.shields.io/badge/Project-Classroom-lightgrey?style=for-the-badge&logo=github)](https://github.com/mohit-hasan/classroom-management)
+[![Classroom](https://img.shields.io/badge/Project-Classroom-black?style=for-the-badge&logo=github)](https://github.com/mohit-hasan/classroom-management-system)
 
